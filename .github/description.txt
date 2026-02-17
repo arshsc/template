@@ -1,0 +1,7 @@
+- List of current known issues
+- List of wanted features
+- Instructions to submit a pull request
+- Project informaiton (funding, sponsors, company info, etc)
+- Release notes (different versions and what is changed)
+- Github repository info (includes passwords/private info not for Github)
+
